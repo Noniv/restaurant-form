@@ -11,7 +11,7 @@ const Input = ({ meta, label, children, ...inputProps }: Props) => {
   return (
     <div className="mt-2">
       <label className="block mb-1">
-        What would you like to eat?{" "}
+        {label}
         <select
           {...inputProps}
           name="type"
