@@ -175,14 +175,14 @@ function App() {
             >
               {pending ? "Sending..." : "Submit"}
             </button>
+            {success && (
+              <div className="mx-auto mt-4 w-fit text-green-600">
+                Form sent successfully!
+              </div>
+            )}
           </form>
         )}
       />
-      {success && (
-        <div className="mx-auto w-fit text-green-600">
-          Form sent successfully!
-        </div>
-      )}
     </>
   );
 }
