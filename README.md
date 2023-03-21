@@ -1,7 +1,7 @@
 A form created for the recruitment process.
 
 ## Running the project locally
-This application requires node.js and npm installed.
+This application requires `node.js` (version used: `18.14.0`) and `npm` (version used: `9.3.1`) installed.
 
 First, install dependencies in the project root folder:
 ```bash
