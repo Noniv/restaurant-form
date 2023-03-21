@@ -26,4 +26,4 @@ npm run preview
 - Vite
 - ESLint
 
-Live preview is available at https://codesandbox.io/p/sandbox/restaurant-form-52q0rg?file=%2FREADME.md
+Live preview is available at https://codesandbox.io/p/github/Noniv/restaurant-form/
